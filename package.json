@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "Harshit Chaudhary",
   "license": "ISC",
   "dependencies": {
     "ajv": "^8.16.0",
