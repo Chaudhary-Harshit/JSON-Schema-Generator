@@ -5,11 +5,11 @@ A simple library to generate JSON Schema from JSON data.
 ## Installation
 
 ```sh
-npm install json-schema-generator
+npm install json-schema-generator-js
 
 # Usage
 
-const { generateSchema } = require('json-schema-generator');
+const { generateSchema } = require('json-schema-generator-js');
 
 const data = {
     name: 'John Doe',
